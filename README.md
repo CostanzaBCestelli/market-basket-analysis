@@ -1,4 +1,7 @@
 # Market Basket Analysis
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An innovative market basket analysis system that uses Word2Vec embeddings, temporal insights, and graph visualizations.
 
 ## Features
